@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 
   s.name         = "BLRearangeableCollectionViewFlowLayout"
   s.version      = "0.0.1"
-  s.summary      = "flowlayout."
+  s.summary      = "BLRearangeableCollectionViewFlowLayout."
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
